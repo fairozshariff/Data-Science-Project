@@ -1,2 +1,6 @@
-# Data-Science-Project
-It consists of Python for data science project from coursera
+# Python Courses By Coursera
+
+This repository consists of material from the following courses by Coursera
+- General Python fundamentals
+- Data analysis using Python
+- Python for data science (Project)
